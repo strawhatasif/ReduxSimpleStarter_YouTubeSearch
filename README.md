@@ -1,23 +1,26 @@
-# ReduxSimpleStarter
+# ReduxSimpleStarter_YouTubeSearch
+
+This app is based on the one in the following repo: https://github.com/StephenGriderStephenGrider/ReduxSimpleStarter.git
+
+If you are interested in the course I took - please go here: [Redux](https://www.udemy.com/react-redux/)
 
 ###Getting Started###
 
 There are two methods for getting started with this repo.
 
-####Familiar with Git?#####
-Checkout this repo, install depdencies, then start the gulp process with the following:
+Checkout this repo, install dependencies, then start the gulp process with the following:
 
+SSH
 ```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
+	> git clone git@github.com:strawhatasif/ReduxSimpleStarter_YouTubeSearch.git
 	> cd ReduxSimpleStarter
 	> npm install
 	> npm start
 ```
-
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
+HTTPS
 ```
+	> https://github.com/strawhatasif/ReduxSimpleStarter_YouTubeSearch.git
+	> cd ReduxSimpleStarter
 	> npm install
 	> npm start
 ```
